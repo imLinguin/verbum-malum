@@ -1,0 +1,430 @@
+{
+  "entities": [
+    {
+      "handle": "1",
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization"
+        }
+      ],
+      "roles": [
+        "registrant"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "Wilayah Persekutuan",
+              "",
+              "MY"
+            ]
+          ],
+          [
+            "contact-uri",
+            {},
+            "uri",
+            "https://whois.aliyun.com/whois/whoisForm"
+          ]
+        ]
+      ]
+    },
+    {
+      "handle": "2",
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization"
+        }
+      ],
+      "roles": [
+        "administrative"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "Wilayah Persekutuan",
+              "",
+              "MY"
+            ]
+          ],
+          [
+            "contact-uri",
+            {},
+            "uri",
+            "https://whois.aliyun.com/whois/whoisForm"
+          ]
+        ]
+      ]
+    },
+    {
+      "handle": "3",
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization"
+        }
+      ],
+      "roles": [
+        "technical"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "Wilayah Persekutuan",
+              "",
+              "MY"
+            ]
+          ],
+          [
+            "contact-uri",
+            {},
+            "uri",
+            "https://whois.aliyun.com/whois/whoisForm"
+          ]
+        ]
+      ]
+    },
+    {
+      "handle": "4",
+      "objectClassName": "entity",
+      "remarks": [
+        {
+          "description": [
+            "Some of the data in this object has been removed."
+          ],
+          "title": "REDACTED FOR PRIVACY",
+          "type": "object truncated due to authorization"
+        }
+      ],
+      "roles": [
+        "billing"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "kind",
+            {},
+            "text",
+            "individual"
+          ],
+          [
+            "org",
+            {
+              "type": "work"
+            },
+            "text",
+            "Redacted for Privacy"
+          ],
+          [
+            "adr",
+            {},
+            "text",
+            [
+              "",
+              "",
+              "",
+              "",
+              "Wilayah Persekutuan",
+              "",
+              "MY"
+            ]
+          ],
+          [
+            "contact-uri",
+            {},
+            "uri",
+            "https://whois.aliyun.com/whois/whoisForm"
+          ]
+        ]
+      ]
+    },
+    {
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+86.95187"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "DomainAbuse@service.aliyun.com"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "3775",
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "3775",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Dominet (HK)Limited"
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventActor": "alisin",
+      "eventDate": "2025-11-07T16:15:31Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventActor": "alisin",
+      "eventDate": "2025-11-07T17:45:06Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-11-07T16:15:31Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-11-07T16:15:31Z"
+    }
+  ],
+  "handle": "3036523083_DOMAIN_COM-VRSN",
+  "lang": "en",
+  "ldhName": "bremwex.com",
+  "links": [
+    {
+      "href": "https://whois.aliyun.com/rdap/domain/bremwex.com",
+      "rel": "self",
+      "type": "application/rdap+json",
+      "value": "https://whois.aliyun.com/rdap/domain/bremwex.com"
+    }
+  ],
+  "nameservers": [
+    {
+      "lang": "en",
+      "ldhName": "kehlani.ns.cloudflare.com",
+      "objectClassName": "nameserver",
+      "unicodeName": "kehlani.ns.cloudflare.com"
+    },
+    {
+      "lang": "en",
+      "ldhName": "ricardo.ns.cloudflare.com",
+      "objectClassName": "nameserver",
+      "unicodeName": "ricardo.ns.cloudflare.com"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp."
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "related",
+          "type": "text/html",
+          "value": "https://icann.org/epp"
+        }
+      ],
+      "title": "Epp Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf."
+      ],
+      "links": [
+        {
+          "href": "https://www.icann.org/wicf",
+          "rel": "related",
+          "type": "text/html",
+          "value": "https://www.icann.org/wicf"
+        }
+      ],
+      "title": "Whois Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "port43": "grs-whois.hichina.com",
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_0",
+    "icann_rdap_technical_implementation_guide_0"
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "active"
+  ],
+  "unicodeName": "bremwex.com"
+}
