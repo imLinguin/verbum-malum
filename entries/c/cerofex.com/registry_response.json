@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+86.95187"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "domainabuse@service.aliyun.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "3775",
+      "links": [
+        {
+          "href": "http://www.alibabacloud.com",
+          "rel": "about",
+          "type": "text/html",
+          "value": "https://whois.aliyun.com/rdap/"
+        }
+      ],
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "3775",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Dominet (HK) Limited"
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2025-11-10T00:15:10Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-11-10T00:15:10Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-11-10T00:15:10Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-11-10T14:03:54Z"
+    }
+  ],
+  "handle": "3037303964_DOMAIN_COM-VRSN",
+  "ldhName": "CEROFEX.COM",
+  "links": [
+    {
+      "href": "https://rdap.verisign.com/com/v1/domain/CEROFEX.COM",
+      "rel": "self",
+      "type": "application/rdap+json",
+      "value": "https://rdap.verisign.com/com/v1/domain/CEROFEX.COM"
+    },
+    {
+      "href": "https://whois.aliyun.com/rdap/domain/CEROFEX.COM",
+      "rel": "related",
+      "type": "application/rdap+json",
+      "value": "https://whois.aliyun.com/rdap/domain/CEROFEX.COM"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "ADI.NS.CLOUDFLARE.COM",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "HENRY.NS.CLOUDFLARE.COM",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml",
+          "rel": "terms-of-service",
+          "type": "text/html",
+          "value": "https://rdap.verisign.com/com/v1//domain/cerofex.com"
+        }
+      ],
+      "title": "Terms of Service"
+    },
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ],
+      "title": "Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "help",
+          "type": "text/html",
+          "value": "https://rdap.verisign.com/com/v1//domain/cerofex.com"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "active"
+  ]
+}
