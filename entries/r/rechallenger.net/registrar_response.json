@@ -1,0 +1,441 @@
+{
+  "entities": [
+    {
+      "lang": "en",
+      "objectClassName": "entity",
+      "roles": [
+        "registrant"
+      ],
+      "status": [
+        "active"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            ""
+          ],
+          [
+            "adr",
+            {
+              "cc": "SE"
+            },
+            "text",
+            [
+              "",
+              "",
+              [],
+              "",
+              "Uppsalal&amp;#228;n",
+              "",
+              ""
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "gdpr-masking@gdpr-masked.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "text",
+            "tel:"
+          ]
+        ]
+      ]
+    },
+    {
+      "lang": "en",
+      "objectClassName": "entity",
+      "roles": [
+        "administrative",
+        "technical"
+      ],
+      "status": [
+        "active"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "GDPR Masked"
+          ],
+          [
+            "adr",
+            {
+              "cc": "XX"
+            },
+            "text",
+            [
+              "",
+              "",
+              [
+                "",
+                "",
+                "GDPR Masked"
+              ],
+              "GDPR Masked",
+              "GDPR Masked",
+              "GDPR Masked",
+              ""
+            ]
+          ],
+          [
+            "email",
+            {},
+            "text",
+            "gdpr-masking@gdpr-masked.com"
+          ],
+          [
+            "tel",
+            {
+              "type": "voice"
+            },
+            "text",
+            "tel:GDPR Masked"
+          ],
+          [
+            "tel",
+            {
+              "type": "fax"
+            },
+            "text",
+            "tel:GDPR Masked"
+          ]
+        ]
+      ]
+    },
+    {
+      "entities": [
+        {
+          "lang": "en",
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "status": [
+            "active"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "org",
+                {},
+                "text",
+                "PDR Ltd. d/b/a PublicDomainRegistry.com"
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "text",
+                "tel:+1.2013775952"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse-contact@publicdomainregistry.com"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                "PDR Ltd. d/b/a PublicDomainRegistry.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "303",
+      "lang": "en",
+      "links": [
+        {
+          "href": "https://www.publicdomainregistry.com",
+          "rel": "about",
+          "type": "application/rdap+json",
+          "value": "https://rdapserver.net/"
+        }
+      ],
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "303",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "status": [
+        "active"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "org",
+            {},
+            "text",
+            "PDR Ltd. d/b/a PublicDomainRegistry.com"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "PDR Ltd. d/b/a PublicDomainRegistry.com"
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2025-11-12T11:25:50Z"
+    },
+    {
+      "eventAction": "registrar expiration",
+      "eventDate": "2026-11-12T11:30:36Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2025-11-12T11:30:37.973534Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2025-12-14T11:46:21.706Z"
+    }
+  ],
+  "handle": "3038007642_DOMAIN_NET-VRSN",
+  "lang": "en",
+  "ldhName": "rechallenger.net",
+  "nameservers": [
+    {
+      "lang": "en",
+      "ldhName": "dns1.regway.com",
+      "objectClassName": "nameserver",
+      "status": [
+        "active"
+      ],
+      "unicodeName": "dns1.regway.com"
+    },
+    {
+      "lang": "en",
+      "ldhName": "dns2.regway.com",
+      "objectClassName": "nameserver",
+      "status": [
+        "active"
+      ],
+      "unicodeName": "dns2.regway.com"
+    },
+    {
+      "lang": "en",
+      "ldhName": "dns3.regway.com",
+      "objectClassName": "nameserver",
+      "status": [
+        "active"
+      ],
+      "unicodeName": "dns3.regway.com"
+    },
+    {
+      "lang": "en",
+      "ldhName": "dns4.regway.com",
+      "objectClassName": "nameserver",
+      "status": [
+        "active"
+      ],
+      "unicodeName": "dns4.regway.com"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "The contact information for one or more entities associated with this domain has been redacted in accordance with the entity's disclosure preferences."
+      ],
+      "title": "Data Policy",
+      "type": "object truncated due to authorization"
+    },
+    {
+      "description": [
+        "URL for Terms of Use https://rdapserver.net/terms-of-use/"
+      ],
+      "links": [
+        {
+          "href": "https://rdapserver.net/terms-of-use/",
+          "rel": "terms-of-service",
+          "type": "application/rdap+json",
+          "value": "https://rdapserver.net/domain/rechallenger.net"
+        }
+      ],
+      "title": "Terms of Use"
+    },
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "rel": "glossary",
+          "type": "application/rdap+json",
+          "value": "https://rdapserver.net/domain/rechallenger.net"
+        }
+      ],
+      "title": "Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "help",
+          "type": "application/rdap+json",
+          "value": "https://rdapserver.net/domain/rechallenger.net"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "rdapConformance": [
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "rdap_level_0",
+    "redacted"
+  ],
+  "redacted": [
+    {
+      "method": "emptyValue",
+      "name": {
+        "type": "Registrant Name"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "emptyValue",
+      "name": {
+        "type": "Registrant Street"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "emptyValue",
+      "name": {
+        "type": "Registrant City"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "emptyValue",
+      "name": {
+        "type": "Registrant Postal Code"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "removal",
+      "name": {
+        "type": "Registrant Organization"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "removal",
+      "name": {
+        "type": "Registrant Phone"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "removal",
+      "name": {
+        "type": "Registrant Phone Ext"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "removal",
+      "name": {
+        "type": "Registrant Fax"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "removal",
+      "name": {
+        "type": "Registrant Fax Ext"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "removal",
+      "name": {
+        "type": "Registry Registrant ID"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    },
+    {
+      "method": "replacementValue",
+      "name": {
+        "type": "Registrant Email"
+      },
+      "policy": "GDPR",
+      "reason": "Data redacted due to GDPR."
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "client transfer prohibited"
+  ]
+}
