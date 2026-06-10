@@ -1,0 +1,179 @@
+{
+  "entities": [
+    {
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+372.6884747"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@trustname.com"
+              ]
+            ]
+          ]
+        }
+      ],
+      "handle": "4318",
+      "links": [
+        {
+          "href": "https://trustname.com/",
+          "rel": "about",
+          "type": "text/html",
+          "value": "https://rdap.trustname.com/"
+        }
+      ],
+      "objectClassName": "entity",
+      "publicIds": [
+        {
+          "identifier": "4318",
+          "type": "IANA Registrar ID"
+        }
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "Fewmoretaps OU d/b/a Trustname.com"
+          ]
+        ]
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "registration",
+      "eventDate": "2026-06-10T17:35:27Z"
+    },
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-06-10T17:35:27Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2026-06-10T17:35:57Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2026-06-10T22:11:21Z"
+    }
+  ],
+  "handle": "3109438329_DOMAIN_COM-VRSN",
+  "ldhName": "HASOBIN.COM",
+  "links": [
+    {
+      "href": "https://rdap.verisign.com/com/v1/domain/HASOBIN.COM",
+      "rel": "self",
+      "type": "application/rdap+json",
+      "value": "https://rdap.verisign.com/com/v1/domain/HASOBIN.COM"
+    },
+    {
+      "href": "https://rdap.trustname.com/domain/HASOBIN.COM",
+      "rel": "related",
+      "type": "application/rdap+json",
+      "value": "https://rdap.trustname.com/domain/HASOBIN.COM"
+    }
+  ],
+  "nameservers": [
+    {
+      "ldhName": "EMERIE.NS.CLOUDFLARE.COM",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "MARIO.NS.CLOUDFLARE.COM",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "notices": [
+    {
+      "description": [
+        "Service subject to Terms of Use."
+      ],
+      "links": [
+        {
+          "href": "https://www.verisign.com/domain-names/registration-data-access-protocol/terms-service/index.xhtml",
+          "rel": "terms-of-service",
+          "type": "text/html",
+          "value": "https://rdap.verisign.com/com/v1/domain/hasobin.com"
+        }
+      ],
+      "title": "Terms of Service"
+    },
+    {
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/epp",
+          "type": "text/html"
+        }
+      ],
+      "title": "Status Codes"
+    },
+    {
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "href": "https://icann.org/wicf",
+          "rel": "help",
+          "type": "text/html",
+          "value": "https://rdap.verisign.com/com/v1/domain/hasobin.com"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form"
+    }
+  ],
+  "objectClassName": "domain",
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_technical_implementation_guide_1",
+    "icann_rdap_response_profile_1"
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "status": [
+    "active"
+  ]
+}
